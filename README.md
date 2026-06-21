@@ -1,2 +1,14 @@
 # www-sport-pages
-HTML page archive and documentation
+
+静态文件发布目录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
